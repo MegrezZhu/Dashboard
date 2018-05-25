@@ -1,10 +1,10 @@
 # Dashboard
 
 1. [About（项目规划）](documents/about.md)
-2. [Team profile（团队组建）](documents/team_profile.md)
-3. [Investigation（项目前期调研）](documents/competitor_analyze.md)
-4. [Vision（项目愿景）](documents/Baoleme_Project_Proposal.md)
-5. [Product Backlog（产品特性）](documents/product_backlog.md)
+2. [Team profile（团队组建）](documents/team_profile)
+3. [Investigation（项目前期调研）](documents/competitor_analyze)
+4. [Vision（项目愿景）](documents/Baoleme_Project_Proposal)
+5. [Product Backlog（产品特性）](documents/product_backlog)
 6. Requirement specification(需求规格说明书)
 	- 6.1 [Usecase Diagram（用例图）](UseCases/README.md#用例图)
 	- 6.2 [Use Cases（用例+活动图）](UseCases/README.md#用例文本与活动图)
@@ -27,9 +27,9 @@
 	- 8.2 [REST API 设计规范](API-document/)
 
 X1. Meet Records
-  - [inception meeting (3/22/2018)](meet_records/KickOff_Meeting_Record(3-22-2018).md)
-  - [iteration1 meeting（3/29/2018）](meet_records/meeting_record_of_iteration1(3-29-2018).md)
-  - [initial design meeting（4/10/2018-4/11/2018）](meet_records/meeting_record_of_initial_design(4-10-2018-4-11-2018).md)
+  - [inception meeting (3/22/2018)](meet_records/KickOff_Meeting_Record(3-22-2018))
+  - [iteration1 meeting（3/29/2018）](meet_records/meeting_record_of_iteration1(3-29-2018))
+  - [initial design meeting（4/10/2018-4/11/2018）](meet_records/meeting_record_of_initial_design(4-10-2018-4-11-2018))
   - [meeting record of detail design(4/17/2018)](meet_records/meeting_record_of_detail_design(4-17-2018).md)
   - [sprint meeting(4/28/2018)](meet_records/sprint_meeting_for_developing_round2(4-28-2018).md)
 
